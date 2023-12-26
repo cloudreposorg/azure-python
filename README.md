@@ -14,7 +14,7 @@ https://docs.microsoft.com/en-us/azure/developer/python/configure-local-developm
 ```
 * Step 2: Clone repo and run actions
 ```
-git clone https://github.com/fullstack2025/CSM.git && cd CSM
+git clone https://github.com/cloudreposorg/azure-python.git && cd azure-python.git
 pip3 install -r requirements.txt
 python3 entrypoint.py -cp cluster-profiles/azure_dev_cluster.json  stop
 python3 entrypoint.py -cp cluster-profiles/azure_dev_cluster.json  start 
