@@ -7,9 +7,9 @@ import os
 import json
 import time
 import argparse
-from azure_operations.stop_start import AzureStopStart
-from azure_operations.cleanup import terminate_rg
-from azure_operations.service_principle_rotation import SPRotation
+from azure-automation.stop_start import AzureStopStart
+from azure-automation.cleanup import terminate_rg
+from azure-automation.service_principle_rotation import SPRotation
 
 VALID_ACTIONS = ["stop", "start", "deprovision"]
 parser = argparse.ArgumentParser()
