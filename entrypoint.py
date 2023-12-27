@@ -7,9 +7,9 @@ import os
 import json
 import time
 import argparse
-from azure-automation.stop_start import AzureStopStart
-from azure-automation.cleanup import terminate_rg
-from azure-automation.service_principle_rotation import SPRotation
+from azure_automation.stop_start import AzureStopStart
+from azure_automation.cleanup import terminate_rg
+from azure_automation.service_principle_rotation import SPRotation
 
 VALID_ACTIONS = ["stop", "start", "deprovision"]
 parser = argparse.ArgumentParser()
@@ -42,4 +42,4 @@ if cluster_profile['cloud_provider'] == 'azure':
         a.start_cluster_vms()
     elif action == 'sp_rotation':
         spr = SPRotation()
-        spr.check_sp_status('testsp')
+        spr.check_sp_status('mysp')

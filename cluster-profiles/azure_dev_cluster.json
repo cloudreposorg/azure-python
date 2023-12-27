@@ -1,6 +1,6 @@
 { 
     "cloud_provider": "azure",
     "cluster_name": "Dev-RG",
-    "mylocation" : "West US", 
-    "mykey" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDGdqmjHwxpRSG/MqmiUJM4pvwGKipFFodfsRNpZqVGrRK/P/WSR0hVgfhy2CnaUWD2xNiBZUzv1XZFGT86H271CKVxz7rJBIQodclqvjvmEx2/K0U3uPjnpAR3yzPs1lzDaCFEBYhn6v/U6Cz15PTRHDTaIqi/Qk5cDbxD+wuPsuAxXFpH4ScizrmjKNV05dGrQZJxSwmB3R284EmWtm/VgD6ilOaThffNXxv1BWn9Krk7L7PuP2RW3YBvN1oPZx0Xozll4AoFsSJYOcZnyhGpo5FBw1ozAq/lk4vVvNtydlH4oeo8ufQKLxls6AmrdQ1LldCbi6mkONzOaHbhKsIo+7QvpspTSVc9Tf1ZP+6MzHoGjynogcPtSV/fYa+Tdq8xCNETul1g8ZuY8K+yxh4JskIsYbwrrR1Xs8nlvi9kWaN/Z3NeILTcHKQC8RibhXBtH7aH0cXmeEldgHyUvLQht1BKwKDj6e58AdfBhTkto+i3thSHvCqFQ2Ya2MuGqrk= krishna@krish"
+    "mylocation" : "East US", 
+    "mykey" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDDPKuTm1ftRS45/qAfPM0lHBX6fyZHBZ5LiHJUXvltpz7d1Y6HhA8CjSaMlwqJ1b79YL2T7MLPWCaldt6eMyovoYoA++WtJCk0wgZktlQkJ6Ox49VV+8qbQZVGDMyrpgpJi6UbTDv2yezGkdGK0x7ShDI6yaA3xD7z7h5b1UB8zcmvg18Z05Yz3pxxHEKAdDV4FG/ky4V66fxrKhmPxbG8Zd32qxbVtwAeE6XdTXna5eLdjrw8F7c6G+ElqZHwlYAkAf3hW/lrfdiPG7a8vRuyYM41DSC0Js6waudWyYHGpRKWB11Z7OJQdVXRsYq42M09e1Lk7dcMeV/IIm95GcAkd/FCB/CvAPme9rq63i9yXW7E5OGpXnDx6CUoXCRlEbEVwOVt1nidi1G1Xo1D/KgVKJDKpmlY27ZqhRbM//NDLfX73wmRJ4W9Dc4lW2adxca1ec1taQn+Y0ED53PnexdU7RoTwjc9RjKbTyf3przpRw1G5HlrD9t9NL+S5ryjlKM= Krishna@krish"
 }

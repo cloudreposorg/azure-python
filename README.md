@@ -2,7 +2,7 @@ Project Title
 --------------
 Cloud Stones Manager
 
-# Azure Operations
+# Pre-Requisites
 * Step 1: Authentication to Azure
 ```
 export ARM_TENANT_ID="" && export ARM_SUBSCRIPTION_ID="" && export ARM_CLIENT_ID="" && export ARM_CLIENT_SECRET=""
@@ -12,7 +12,8 @@ az ad sp create-for-rbac --name <myserviceprincipal> --role Contributor
 
 https://docs.microsoft.com/en-us/azure/developer/python/configure-local-development-environment?tabs=cmd
 ```
-* Step 2: Clone repo and run actions
+# Execution Flow
+* Step 1: Clone repo and run actions
 ```
 git clone https://github.com/cloudreposorg/azure-python.git && cd azure-python.git
 pip3 install -r requirements.txt
