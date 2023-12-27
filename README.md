@@ -32,11 +32,18 @@ python3 entrypoint.py -cp cluster-profiles/azure_dev_cluster.json  sp_rotation
 # Features
 ```
 Delete Resource group - Done
+
 Stop and Start virtual machines - Done
+
 Serive principle rotation - In Progress
+
 Service Quota increase - TODO
+
 Price calculation -TODO
+
 Customer managed encryption key(CMEK) for disks - TODO
+
 Private Link set up - TODO
+
 Express Route set up - TODO
 ```
