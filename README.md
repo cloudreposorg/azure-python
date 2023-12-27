@@ -46,4 +46,6 @@ Customer managed encryption key(CMEK) for disks - TODO
 Private Link set up - TODO
 
 Express Route set up - TODO
+
+Management Groups - TODO
 ```
